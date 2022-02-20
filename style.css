@@ -1,0 +1,21 @@
+body {
+    font-family: cursive;
+}
+footer {
+    background-color: lightblue;
+    border:5px solid coral ;
+}
+body {
+    background-color: rgb(37, 74, 196);
+}
+header {
+    font-size: 30px;
+    text-align: center;
+}
+a {
+    color: darkmagenta;
+    font-size: 30px;
+}
+li {
+    font-family: Impact;
+}
